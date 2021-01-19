@@ -1,2 +1,4 @@
 add line in feature branch
 line b4 creating remote repo
+
+add line in feature 2 branch
